@@ -168,7 +168,7 @@ img::-moz-selection {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link:hover,
   #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-    color: white;
+    color:#f7ae7e;
   }
   #mainNav.navbar-shrink {
     border-bottom: 1px solid rgba(33, 37, 41, 0.1);
@@ -347,7 +347,7 @@ header.masthead p {
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  color: #f7ae7e;
+  color: #fff;
   background-color:  #f7ae7e !important;
 }
 
