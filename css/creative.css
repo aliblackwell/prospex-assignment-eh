@@ -47,6 +47,8 @@ a:hover {
   color: #F5822C;
 }
 
+
+
 h1,
 h2,
 h3,
@@ -190,6 +192,8 @@ img::-moz-selection {
   }
 }
 
+
+
 .donate-widget {    
   position: fixed;
   top: calc(88% - 6rem);
@@ -325,6 +329,7 @@ header.masthead p {
     font-size: 22px;
   }
 }
+
 
 .text-primary {
   color: #F5822C !important;
